@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: eb50b7415dbd99b4581458539c96d28a
+timeCreated: 1449855962
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group19255
+    100002: Group31037
+    100004: Group9915
+    100006: Object001
+    100008: Object002
+    100010: Object003
+    100012: Object004
+    100014: Object005
+    100016: Object006
+    100018: Object007
+    100020: //RootNode
+    100022: Finger_stone_v1
+    100024: Finger_stone_v2
+    100026: Finger_stone_v3
+    100028: Mountain_v1
+    100030: Small_finger_stone_v1
+    100032: Small_finger_stone_v2
+    100034: Small_finger_stone_v3
+    100036: Small_finger_stone_v4
+    100038: Small_finger_stone_v5
+    100040: Stone_ark_v1
+    100042: Big_mountain_v1
+    100044: Stone_claw_v1
+    100046: Stone_claw_v2
+    100048: Stone_claw_v3
+    100050: Stone_claw_v4
+    100052: Stone_claw_v5
+    400000: Group19255
+    400002: Group31037
+    400004: Group9915
+    400006: Object001
+    400008: Object002
+    400010: Object003
+    400012: Object004
+    400014: Object005
+    400016: Object006
+    400018: Object007
+    400020: //RootNode
+    400022: Finger_stone_v1
+    400024: Finger_stone_v2
+    400026: Finger_stone_v3
+    400028: Mountain_v1
+    400030: Small_finger_stone_v1
+    400032: Small_finger_stone_v2
+    400034: Small_finger_stone_v3
+    400036: Small_finger_stone_v4
+    400038: Small_finger_stone_v5
+    400040: Stone_ark_v1
+    400042: Big_mountain_v1
+    400044: Stone_claw_v1
+    400046: Stone_claw_v2
+    400048: Stone_claw_v3
+    400050: Stone_claw_v4
+    400052: Stone_claw_v5
+    2300000: Group19255
+    2300002: Group31037
+    2300004: Group9915
+    2300006: Object001
+    2300008: Object002
+    2300010: Object003
+    2300012: Object004
+    2300014: Object005
+    2300016: Object006
+    2300018: Object007
+    2300020: Finger_stone_v1
+    2300022: Finger_stone_v2
+    2300024: Finger_stone_v3
+    2300026: Mountain_v1
+    2300028: Small_finger_stone_v1
+    2300030: Small_finger_stone_v2
+    2300032: Small_finger_stone_v3
+    2300034: Small_finger_stone_v4
+    2300036: Small_finger_stone_v5
+    2300038: Stone_ark_v1
+    2300040: Big_mountain_v1
+    2300042: Stone_claw_v1
+    2300044: Stone_claw_v2
+    2300046: Stone_claw_v3
+    2300048: Stone_claw_v4
+    2300050: Stone_claw_v5
+    3300000: Group19255
+    3300002: Group31037
+    3300004: Group9915
+    3300006: Object001
+    3300008: Object002
+    3300010: Object003
+    3300012: Object004
+    3300014: Object005
+    3300016: Object006
+    3300018: Object007
+    3300020: Finger_stone_v1
+    3300022: Finger_stone_v2
+    3300024: Finger_stone_v3
+    3300026: Mountain_v1
+    3300028: Small_finger_stone_v1
+    3300030: Small_finger_stone_v2
+    3300032: Small_finger_stone_v3
+    3300034: Small_finger_stone_v4
+    3300036: Small_finger_stone_v5
+    3300038: Stone_ark_v1
+    3300040: Big_mountain_v1
+    3300042: Stone_claw_v1
+    3300044: Stone_claw_v2
+    3300046: Stone_claw_v3
+    3300048: Stone_claw_v4
+    3300050: Stone_claw_v5
+    4300000: Group9915
+    4300002: Object001
+    4300004: Group19255
+    4300006: Group31037
+    4300008: Object002
+    4300010: Object003
+    4300012: Object004
+    4300014: Object005
+    4300016: Object006
+    4300018: Object007
+    4300020: Stone_ark_v1
+    4300022: Small_finger_stone_v5
+    4300024: Finger_stone_v3
+    4300026: Mountain_v1
+    4300028: Finger_stone_v2
+    4300030: Finger_stone_v1
+    4300032: Small_finger_stone_v1
+    4300034: Small_finger_stone_v3
+    4300036: Small_finger_stone_v2
+    4300038: Small_finger_stone_v4
+    4300040: Big_mountain_v1
+    4300042: Stone_claw_v4
+    4300044: Stone_claw_v1
+    4300046: Stone_claw_v3
+    4300048: Stone_claw_v2
+    4300050: Stone_claw_v5
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
