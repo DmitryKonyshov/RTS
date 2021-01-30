@@ -1,2 +1,2 @@
 # RTS
-RTS on Unity3D
+Demo of a multiplayer real-time strategy game on Unity game engine.  
